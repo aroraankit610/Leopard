@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-15T23:18:24 EDT" name="Suite1" finished-at="2020-09-15T23:18:29 EDT" duration-ms="5270">
+    <groups>
+    </groups>
+    <test started-at="2020-09-15T23:18:24 EDT" name="Leopard" finished-at="2020-09-15T23:18:29 EDT" duration-ms="5270">
+      <class name="AutoCompleteTest">
+        <test-method signature="start()[pri:0, instance:AutoCompleteTest@6dbb137d]" started-at="2020-09-15T23:18:24 EDT" name="start" finished-at="2020-09-15T23:18:29 EDT" duration-ms="5246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- AutoCompleteTest -->
+    </test> <!-- Leopard -->
+  </suite> <!-- Suite1 -->
+</testng-results>
